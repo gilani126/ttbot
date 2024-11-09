@@ -1434,3 +1434,76 @@ telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsucc
 2024-11-09 00:29:05,909 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=514937009&timeout=20 HTTP/1.1" 200 23
 2024-11-09 00:29:26,185 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=514937009&timeout=20 HTTP/1.1" 200 23
 2024-11-09 00:29:46,459 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=514937009&timeout=20 HTTP/1.1" 200 23
+2024-11-09 17:28:01,191 - root - DEBUG - Это сообщение для отладки
+2024-11-09 17:28:01,191 - root - INFO - Это информационное сообщение
+2024-11-09 17:28:01,191 - root - WARNING - Это предупреждение
+2024-11-09 17:28:01,191 - root - ERROR - Произошла ошибка!
+2024-11-09 17:28:01,191 - root - CRITICAL - Это критическая ошибка!
+2024-11-09 17:28:01,192 - root - DEBUG - Это сообщение для отладки
+2024-11-09 17:28:01,192 - root - INFO - Это информационное сообщение
+2024-11-09 17:28:01,192 - root - WARNING - Это предупреждение
+2024-11-09 17:28:01,192 - root - ERROR - Произошла ошибка!
+2024-11-09 17:28:01,192 - root - CRITICAL - Это критическая ошибка!
+2024-11-09 17:28:01,192 - root - DEBUG - Это сообщение для отладки
+2024-11-09 17:28:01,192 - root - INFO - Это информационное сообщение
+2024-11-09 17:28:01,192 - root - WARNING - Это предупреждение
+2024-11-09 17:28:01,192 - root - ERROR - Произошла ошибка!
+2024-11-09 17:28:01,192 - root - CRITICAL - Это критическая ошибка!
+2024-11-09 17:28:28,654 - root - DEBUG - Это сообщение для отладки
+2024-11-09 17:28:28,654 - root - INFO - Это информационное сообщение
+2024-11-09 17:28:28,654 - root - WARNING - Это предупреждение
+2024-11-09 17:28:28,654 - root - ERROR - Произошла ошибка!
+2024-11-09 17:28:28,654 - root - CRITICAL - Это критическая ошибка!
+2024-11-09 17:28:28,655 - root - DEBUG - Это сообщение для отладки
+2024-11-09 17:28:28,655 - root - INFO - Это информационное сообщение
+2024-11-09 17:28:28,655 - root - WARNING - Это предупреждение
+2024-11-09 17:28:28,655 - root - ERROR - Произошла ошибка!
+2024-11-09 17:28:28,655 - root - CRITICAL - Это критическая ошибка!
+2024-11-09 17:28:28,655 - root - DEBUG - Это сообщение для отладки
+2024-11-09 17:28:28,655 - root - INFO - Это информационное сообщение
+2024-11-09 17:28:28,655 - root - WARNING - Это предупреждение
+2024-11-09 17:28:28,655 - root - ERROR - Произошла ошибка!
+2024-11-09 17:28:28,655 - root - CRITICAL - Это критическая ошибка!
+2024-11-09 17:28:28,833 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-11-09 17:28:29,500 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/setWebhook?url= HTTP/1.1" 200 68
+2024-11-09 17:28:29,655 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getMe HTTP/1.1" 200 260
+2024-11-09 17:28:29,659 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-11-09 17:28:45,161 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 370
+2024-11-09 17:28:45,168 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-11-09 17:28:45,832 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/sendMessage?chat_id=453275086&text=%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%21+%D0%92%D1%8B%D0%B1%D0%B5%D1%80%D0%B8%D1%82%D0%B5+%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%3A&reply_markup=%7B%22keyboard%22%3A+%5B%5B%7B%22text%22%3A+%22%5Cud83d%5Cuded2+%5Cu042f+%5Cu0445%5Cu043e%5Cu0447%5Cu0443+%5Cu043a%5Cu0443%5Cu043f%5Cu0438%5Cu0442%5Cu044c%22%7D%5D%2C+%5B%7B%22text%22%3A+%22%5Cud83d%5Cudcbc+%5Cu042f+%5Cu0445%5Cu043e%5Cu0447%5Cu0443+%5Cu043f%5Cu0440%5Cu043e%5Cu0434%5Cu0430%5Cu0442%5Cu044c%22%7D%5D%5D%2C+%22resize_keyboard%22%3A+true%7D HTTP/1.1" 200 450
+2024-11-09 17:28:52,547 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=514937022&timeout=20 HTTP/1.1" 200 370
+2024-11-09 17:28:52,553 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-11-09 17:28:53,292 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/sendMessage?chat_id=453275086&text=%D0%A3+%D0%B2%D0%B0%D1%81+%D0%BD%D0%B5%D1%82+%D0%BF%D1%80%D0%B0%D0%B2+%D0%B4%D0%BB%D1%8F+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0+%D0%BA+%D1%8D%D1%82%D0%BE%D0%BC%D1%83+%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%83. HTTP/1.1" 200 472
+2024-11-09 17:28:57,757 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=514937023&timeout=20 HTTP/1.1" 200 387
+2024-11-09 17:28:57,983 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/sendMessage?chat_id=453275086&text=%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B0+%D0%B1%D0%B0%D0%B7%D1%8B+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%3A+SQLite+objects+created+in+a+thread+can+only+be+used+in+that+same+thread.+The+object+was+created+in+thread+id+8606075904+and+this+is+thread+id+6183759872. HTTP/1.1" 200 512
+2024-11-09 17:29:17,908 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=514937024&timeout=20 HTTP/1.1" 200 23
+2024-11-09 17:29:38,306 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=514937024&timeout=20 HTTP/1.1" 200 23
+2024-11-09 17:29:58,445 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=514937024&timeout=20 HTTP/1.1" 200 23
+2024-11-09 17:30:19,163 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=514937024&timeout=20 HTTP/1.1" 200 23
+2024-11-09 17:30:39,347 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=514937024&timeout=20 HTTP/1.1" 200 23
+2024-11-09 17:30:59,590 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=514937024&timeout=20 HTTP/1.1" 200 23
+2024-11-09 17:31:19,765 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=514937024&timeout=20 HTTP/1.1" 200 23
+2024-11-09 17:31:30,218 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/setWebhook?url= HTTP/1.1" 200 68
+2024-11-09 17:31:30,224 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-11-09 17:31:30,891 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=514937024&timeout=20 HTTP/1.1" 409 143
+2024-11-09 17:34:28,027 - root - DEBUG - Это сообщение для отладки
+2024-11-09 17:34:28,027 - root - INFO - Это информационное сообщение
+2024-11-09 17:34:28,027 - root - WARNING - Это предупреждение
+2024-11-09 17:34:28,027 - root - ERROR - Произошла ошибка!
+2024-11-09 17:34:28,027 - root - CRITICAL - Это критическая ошибка!
+2024-11-09 17:34:28,027 - root - DEBUG - Это сообщение для отладки
+2024-11-09 17:34:28,027 - root - INFO - Это информационное сообщение
+2024-11-09 17:34:28,027 - root - WARNING - Это предупреждение
+2024-11-09 17:34:28,027 - root - ERROR - Произошла ошибка!
+2024-11-09 17:34:28,027 - root - CRITICAL - Это критическая ошибка!
+2024-11-09 17:34:28,032 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-11-09 17:34:28,722 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/setWebhook?url= HTTP/1.1" 200 68
+2024-11-09 17:34:28,875 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getMe HTTP/1.1" 200 260
+2024-11-09 17:34:28,879 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-11-09 17:34:36,283 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 370
+2024-11-09 17:34:36,293 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-11-09 17:34:37,173 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/sendMessage?chat_id=453275086&text=%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%21+%D0%92%D1%8B%D0%B1%D0%B5%D1%80%D0%B8%D1%82%D0%B5+%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%3A&reply_markup=%7B%22keyboard%22%3A+%5B%5B%7B%22text%22%3A+%22%5Cud83d%5Cuded2+%5Cu042f+%5Cu0445%5Cu043e%5Cu0447%5Cu0443+%5Cu043a%5Cu0443%5Cu043f%5Cu0438%5Cu0442%5Cu044c%22%7D%5D%2C+%5B%7B%22text%22%3A+%22%5Cud83d%5Cudcbc+%5Cu042f+%5Cu0445%5Cu043e%5Cu0447%5Cu0443+%5Cu043f%5Cu0440%5Cu043e%5Cu0434%5Cu0430%5Cu0442%5Cu044c%22%7D%5D%5D%2C+%22resize_keyboard%22%3A+true%7D HTTP/1.1" 200 450
+2024-11-09 17:34:38,740 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=514937025&timeout=20 HTTP/1.1" 200 370
+2024-11-09 17:34:38,749 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-11-09 17:34:39,518 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/sendMessage?chat_id=453275086&text=%D0%A3+%D0%B2%D0%B0%D1%81+%D0%BD%D0%B5%D1%82+%D0%BF%D1%80%D0%B0%D0%B2+%D0%B4%D0%BB%D1%8F+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0+%D0%BA+%D1%8D%D1%82%D0%BE%D0%BC%D1%83+%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%83. HTTP/1.1" 200 472
+2024-11-09 17:34:42,733 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6294571924:AAEwzPbLh2pluT_a4trTHWQmuxaJJTsDCpo/getUpdates?offset=514937026&timeout=20 HTTP/1.1" 200 393
