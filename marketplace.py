@@ -23,6 +23,19 @@ class DatabaseManager:
                 FOREIGN KEY(category_id) REFERENCES categories(id) ON DELETE CASCADE
             );
         ''')
+             # Создаем таблицу items, если она не существует
+        cursor.execute('''
+             CREATE TABLE IF NOT EXISTS items (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        name TEXT NOT NULL,
+        description TEXT,
+        price REAL,
+        subcategory_id INTEGER,
+        FOREIGN KEY(subcategory_id) REFERENCES subcategories(id) ON DELETE CASCADE
+    );
+''')
+
+        
         self.conn.commit()
 
     def close(self):
